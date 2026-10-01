@@ -1,3 +1,8 @@
-# rss-feeds
+# RSS Feeds
 
-- [Paul Graham](feeds/paul-graham.xml)
+## Feeds
+
+<!-- feeds:start -->
+- [Gwern Newsletter](feeds/gwern-newsletter.xml)
+- [Paul Graham Essays](feeds/paul-graham.xml)
+<!-- feeds:end -->
