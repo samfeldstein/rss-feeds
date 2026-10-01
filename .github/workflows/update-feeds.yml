@@ -25,7 +25,7 @@ jobs:
         run: |
           python scrapers/paul-graham.py
           python scrapers/gwern-newsletter.py
-          python scripts/update-readme.py
+          python scripts/update-site.py
 
       - name: Commit changes
         run: |
