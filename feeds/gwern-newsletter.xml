@@ -1,0 +1,938 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Gwern Newsletter</title>
+    <link>https://gwern.net/newsletter</link>
+    <description>Monthly newsletters from Gwern.net</description>
+    <item>
+      <title>October 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/10</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/09</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/08</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/07</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/06</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/05</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/04</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/03</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/02</guid>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2026 News</title>
+      <link>https://gwern.net/newsletter/2026/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2026/01</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/12</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/11</guid>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/10</guid>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/09</guid>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/08</guid>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/07</guid>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/06</guid>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/05</guid>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/04</guid>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/03</guid>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/02</guid>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2025 News</title>
+      <link>https://gwern.net/newsletter/2025/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2025/01</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/12</guid>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/11</guid>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/10</guid>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/09</guid>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/08</guid>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/07</guid>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/06</guid>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/05</guid>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/04</guid>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/03</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/02</guid>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2024 News</title>
+      <link>https://gwern.net/newsletter/2024/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2024/01</guid>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/12</guid>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/11</guid>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/10</guid>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/09</guid>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/08</guid>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/07</guid>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/06</guid>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/05</guid>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/04</guid>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/03</guid>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/02</guid>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2023 News</title>
+      <link>https://gwern.net/newsletter/2023/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2023/01</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/12</guid>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/11</guid>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/10</guid>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/09</guid>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/08</guid>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/07</guid>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/06</guid>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/05</guid>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/04</guid>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/03</guid>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/02</guid>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2022 News</title>
+      <link>https://gwern.net/newsletter/2022/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2022/01</guid>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/12</guid>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/11</guid>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/10</guid>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/09</guid>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/08</guid>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/07</guid>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/06</guid>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/05</guid>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/04</guid>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/03</guid>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/02</guid>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2021 News</title>
+      <link>https://gwern.net/newsletter/2021/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2021/01</guid>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/12</guid>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/11</guid>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/10</guid>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/09</guid>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/08</guid>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/07</guid>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/06</guid>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/05</guid>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/04</guid>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/03</guid>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/02</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2020 News</title>
+      <link>https://gwern.net/newsletter/2020/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2020/01</guid>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/12</guid>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/11</guid>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/10</guid>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/09</guid>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/08</guid>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/07</guid>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/06</guid>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/05</guid>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/04</guid>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/03</guid>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/02</guid>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2019 News</title>
+      <link>https://gwern.net/newsletter/2019/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2019/01</guid>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/12</guid>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/11</guid>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/10</guid>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/09</guid>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/08</guid>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/07</guid>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/06</guid>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/05</guid>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/04</guid>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/03</guid>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/02</guid>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2018 News</title>
+      <link>https://gwern.net/newsletter/2018/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2018/01</guid>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/12</guid>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/11</guid>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/10</guid>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/09</guid>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/08</guid>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/07</guid>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/06</guid>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/05</guid>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/04</guid>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/03</guid>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/02</guid>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2017 News</title>
+      <link>https://gwern.net/newsletter/2017/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2017/01</guid>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/12</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/11</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/10</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/09</guid>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/08</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/07</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/06</guid>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/05</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/04</guid>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/03</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/02</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2016 News</title>
+      <link>https://gwern.net/newsletter/2016/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2016/01</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/12</guid>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/11</guid>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/10</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/09</guid>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/08</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/07</guid>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/06</guid>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/05</guid>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/04</guid>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/03</guid>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/02</guid>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2015 News</title>
+      <link>https://gwern.net/newsletter/2015/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2015/01</guid>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/12</guid>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/11</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/11</guid>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/10</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/10</guid>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/09</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/09</guid>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/08</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/08</guid>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/07</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/07</guid>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/06</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/06</guid>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/05</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/05</guid>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/04</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/04</guid>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/03</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/03</guid>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/02</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/02</guid>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2014 News</title>
+      <link>https://gwern.net/newsletter/2014/01</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2014/01</guid>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2013 News</title>
+      <link>https://gwern.net/newsletter/2013/12</link>
+      <guid isPermaLink="true">https://gwern.net/newsletter/2013/12</guid>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

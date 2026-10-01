@@ -13,19 +13,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.13"
 
       - name: Update feeds
-        run: python scrapers/paul-graham.py
+        run: |
+          python scrapers/paul-graham.py
+          python scrapers/gwern-newsletter.py
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add feeds/
-          git diff --cached --quiet || git commit -m "Update RSS feeds"
+
+          if git diff --cached --quiet; then
+            echo "No feed changes."
+            exit 0
+          fi
+
+          git commit -m "Update RSS feeds"
           git push
