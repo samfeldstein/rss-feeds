@@ -5,6 +5,7 @@ from xml.etree.ElementTree import parse
 ROOT = Path(__file__).parent.parent
 FEEDS = ROOT / "feeds"
 README = ROOT / "README.md"
+SITE = "https://samfeldstein.github.io/rss-feeds"
 
 START = "<!-- feeds:start -->"
 END = "<!-- feeds:end -->"
@@ -24,7 +25,7 @@ feeds = sorted(
 )
 
 lines = [
-    f"- [{get_title(feed)}](feeds/{feed.name})"
+    f"- [{get_title(feed)}]({SITE}/feeds/{feed.name})"
     for feed in feeds
 ]
 
