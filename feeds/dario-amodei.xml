@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Dario Amodei</title>
+    <link>https://darioamodei.com/</link>
+    <description>Essays and short posts by Dario Amodei.</description>
+    <item>
+      <title>We Must Pace the Frontier</title>
+      <link>https://darioamodei.com/post/we-must-pace-the-frontier</link>
+      <guid isPermaLink="true">https://darioamodei.com/post/we-must-pace-the-frontier</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Policy on the AI Exponential</title>
+      <link>https://darioamodei.com/post/policy-on-the-ai-exponential</link>
+      <guid isPermaLink="true">https://darioamodei.com/post/policy-on-the-ai-exponential</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Adolescence of Technology</title>
+      <link>https://darioamodei.com/essay/the-adolescence-of-technology</link>
+      <guid isPermaLink="true">https://darioamodei.com/essay/the-adolescence-of-technology</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Urgency of Interpretability</title>
+      <link>https://darioamodei.com/post/the-urgency-of-interpretability</link>
+      <guid isPermaLink="true">https://darioamodei.com/post/the-urgency-of-interpretability</guid>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On DeepSeek and Export Controls</title>
+      <link>https://darioamodei.com/post/on-deepseek-and-export-controls</link>
+      <guid isPermaLink="true">https://darioamodei.com/post/on-deepseek-and-export-controls</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machines of Loving Grace</title>
+      <link>https://darioamodei.com/essay/machines-of-loving-grace</link>
+      <guid isPermaLink="true">https://darioamodei.com/essay/machines-of-loving-grace</guid>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

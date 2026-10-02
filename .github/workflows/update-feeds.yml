@@ -23,8 +23,9 @@ jobs:
 
       - name: Update feeds
         run: |
-          python scrapers/paul-graham.py
-          python scrapers/gwern-newsletter.py
+          for scraper in scrapers/*.py; do
+            python "$scraper"
+          done
           python scripts/update-site.py
 
       - name: Commit changes
