@@ -1,6 +1,9 @@
 name: Update RSS feeds
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 12 * * 1"
   workflow_dispatch:
