@@ -12,12 +12,6 @@ To subscribe, copy a feed's URL into your RSS reader.
 - [Paul Graham Essays](https://samfeldstein.github.io/rss-feeds/feeds/paul-graham.xml)
 <!-- feeds:end -->
 
-| Feed | Source | What's in it |
-| --- | --- | --- |
-| Dario Amodei | [darioamodei.com](https://darioamodei.com/) | Essays and posts linked from the homepage |
-| Gwern Newsletter | [gwern.net/newsletter](https://gwern.net/newsletter) | Every monthly newsletter since August 2013 |
-| Paul Graham Essays | [paulgraham.com/articles.html](https://www.paulgraham.com/articles.html) | Every essay on the articles page |
-
 ### About the dates
 
 For sites that don't give an exact publication date, each item is dated the first of the month it was published. Your reader will sort items in the right order, but the day it shows may be wrong.
